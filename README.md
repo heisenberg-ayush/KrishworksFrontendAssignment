@@ -1,1 +1,1 @@
-![Preview](./src/assets/Zendata.jpg)
+![Preview](./src/assets/Zendata.png)
