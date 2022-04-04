@@ -1,0 +1,33 @@
+.vertical-timeline-element-title {
+    color: #383b3c;
+    font-weight: 500;
+}
+
+.timeline-divider {
+    margin-top: 1em;
+    height: 4em;
+    width: 3px;
+    color: #bbc6fb36;
+    background: #bbc6fb36;
+}
+
+.timeline-small {
+    color: #797c7e;
+    font-weight: 500;
+}
+
+.timeline-h {
+    font-weight: 600;
+}
+
+.appointment-timeline-btn {
+    background: white;
+    color: #2d55ff;
+    font-weight: 700;
+}
+
+.appointment-timeline-btn:hover,
+.appointment-timeline-btn:focus {
+    color: #2d55ff;
+    transform: scale(1.1);
+}

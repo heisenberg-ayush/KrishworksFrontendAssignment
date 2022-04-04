@@ -1,0 +1,14 @@
+.card {
+    width: 11em;
+    max-height: 5em;
+    border: none;
+}
+
+.card-title {
+    font-weight: 700;
+    color: #797c7e;
+}
+
+.card-text {
+    font-weight: 400;
+}
